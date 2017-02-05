@@ -23,7 +23,7 @@ But say, my brothers, what can the child do that even the lion could not do? Why
 
 This is a normal-sized image.
 
-{% image /assets/images/sushi.jpg 600 400 %}
+{% image  assets/poster board boards birm--min.jpg  600 400 %}
 
 This is a full-width image.
 
